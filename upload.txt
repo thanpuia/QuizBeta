@@ -1,3 +1,0 @@
-This should be in git
-
-This should be now not in git
